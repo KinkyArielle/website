@@ -14,3 +14,5 @@ Instruct on how to apply changes to the Repository
      #Log Stuff
 #git diff . #Zeigt die Änderungen 
 #git log . #Zeigt die Änderungs History
+
+
