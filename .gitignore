@@ -3,3 +3,4 @@ DockerServer/dockerfile
 DockerServer/docker-compose.yml
 DockerServer/requirements.txt
 DockerServer/
+/keepmehidden.md
