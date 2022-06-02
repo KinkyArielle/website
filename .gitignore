@@ -4,3 +4,5 @@ DockerServer/docker-compose.yml
 DockerServer/requirements.txt
 DockerServer/
 /keepmehidden.md
+/workflow.md
+/gemfile
